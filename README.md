@@ -60,11 +60,18 @@ Lightweight animation patterns and optimized Tailwind utility usage were applied
 
 ## Screenshots
 
-![Skiper UI Screenshot 1](https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FSkiper.png&w=1080&q=100)
-<br>
-![Skiper UI Screenshot 2](https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FName.jpg&w=1080&q=100)
-<br>
-![Skiper UI Screenshot 3](https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FSkiperCard.jpg&w=1080&q=100)
+<p align="center">
+  <img src="https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FSkiper.png&w=1080&q=100" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FName.jpg&w=1080&q=100" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://arhum-yasin.vercel.app/_next/image?url=%2Fimages%2FSkiperCard.jpg&w=1080&q=100" width="800" />
+</p>
+
   
 
 ---
