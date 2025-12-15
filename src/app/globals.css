@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+
+@font-face {
+  font-family: Skiper1;
+  src:  url("/skiper1.woff2") format("woff2"),
+}
+@font-face {
+  font-family: Skiper2;
+  src: url("/skiper2.woff2") format("woff2"),
+}
+
+/* *{
+  font-family: Skiper1;
+} */
+
+body{
+     /* background-color: #0A0A0A; */
+     color: #FAFAFA;
+     /* font-family: Skiper1; */
+}
+
+@layer utilities {
+  .Vista {
+    color: transparent; /* Makes inner part see-through */
+    -webkit-text-stroke-width: 1.3px; /* Outline thickness */
+    -webkit-text-stroke-color: white; /* Outline color */
+  }
+}
